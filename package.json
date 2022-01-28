@@ -1,0 +1,17 @@
+{
+  "name": "sat-nft",
+  "version": "1.0.0",
+  "description": "NFT project",
+  "main": "index.js",
+  "author": "Satoru Yamamoto",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.8.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "3.1.0-solc-0.7",
+    "dotenv": "^14.3.2"
+  }
+}
