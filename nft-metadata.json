@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Sport",
+      "value": "Rock Climbing"
+    },
+    {
+      "trait_type": "Gear",
+      "value": "Rope"
+    }
+  ],
+  "description": "The world's first climbing rope",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPVgkZbBXXnTg3Rb8p6458sUDu8ptxmahGTAGDt5gABp2",
+  "name": "Ropester"
+}
